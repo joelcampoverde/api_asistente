@@ -1,0 +1,27 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos de entornos virtuales
+venv/
+env/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de migraciones de Django
+**/migrations/
+
+# Archivos de bases de datos locales
+*.sqlite3
+
+# Archivos de entorno
+.env
+
+# Archivos de log
+*.log
+*.tmp
